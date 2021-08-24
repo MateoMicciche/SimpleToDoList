@@ -4,7 +4,7 @@
 
 Submitted by: **Mateo Micciche**
 
-Time spent: **5** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -13,6 +13,14 @@ The following **required** functionality is completed:
 * [x] User can **view a list of todo items**
 * [x] User can **successfully add and remove items** from the todo list
 * [x] User's **list of items persisted** upon modification and and retrieved properly on app restart
+
+The following **optional** features are implemented:
+
+* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
+
+The following **additional** features are implemented:
+
+* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -24,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Mainly had difficulty getting used to Android Studio, as it was my first time using the software. Other than that, the logic and design were easy to understand.
 
 ## License
 
